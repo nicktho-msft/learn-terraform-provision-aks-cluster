@@ -4,4 +4,5 @@ This repo is a companion repo to the [Provision an AKS Cluster learn guide](http
 
 Learning Terraform. Cloned repo from HashiCorp. Followed HashiCorp documentation listed above.
 
+### Issues encountered
 Using MSFT non-prod Azure tenant, ran into issues authenticating via az cli. This very simple doc helped me: [Switch Tenants in Azure CLI](https://dallin.blog/switch-tenants-in-azure-cli/).
