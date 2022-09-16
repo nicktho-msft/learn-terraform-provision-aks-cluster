@@ -39,4 +39,8 @@ provider "registry.terraform.io/hashicorp/random" {
     "zh:f7605bd1437752114baf601bdf6931debe6dc6bfe3006eb7e9bb9080931dca8a",
   ]
 }
+<<<<<<< HEAD
  # new
+=======
+# new
+>>>>>>> beac7e1a1d3b27b88fec3b7b54f5f633fe810871
